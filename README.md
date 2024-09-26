@@ -1,3 +1,18 @@
+
+# Clone
+
+
+`git clone git@github.com:FahadMehmood470/infinite-scroll-images-demo.git`
+
+
+# Install dependencies
+
+install all dependencies
+
+`npm install` 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
